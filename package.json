@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer2pdf2png",
+  "version": "1.0.1",
+  "description": "fetch url  get dom info by cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hayneserica78/puppeteer2pdf2png"
+  },
+  "dependencies": {
+    "puppeteer": "^22.4.1"
+  }
+}
