@@ -4,7 +4,7 @@
   
 
 ```javascript
-  npm install dom-selector-cheerio
+  npm install puppeteer2pdf2png
 ```
 
 2. Usage
