@@ -4,7 +4,7 @@
   
 
 ```javascript
-  npm install puppeteer2pdf2png
+  npm install Tea_OSS
 ```
 
 2. Usage
